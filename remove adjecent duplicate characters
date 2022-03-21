@@ -33,3 +33,15 @@ int main()
 
     return 0;
 }
+
+/*
+output
+Helle
+string :-       Helle
+Helle
+after erase     Hee
+Hee
+after erase     H
+H
+new string is   H
+*/
